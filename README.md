@@ -45,7 +45,7 @@ membuat stdout sama dengan p[1]. Tutup read dari pipe p[0]
 <br/>![ls](https://user-images.githubusercontent.com/56763570/78316889-a9196c00-7515-11ea-9fd6-244c40a36031.PNG)<br/>
 Kemudian eksekusi ls
 <br/>![wc](https://user-images.githubusercontent.com/56763570/78316950-d9610a80-7515-11ea-99b1-e4f068fe14e9.PNG)<br/>
-Esekusii wc
+Esekusi wc
 
 ![lswc](https://user-images.githubusercontent.com/56763570/78317036-0ad9d600-7516-11ea-8b5c-75f701bd5fd2.jpg)
 
