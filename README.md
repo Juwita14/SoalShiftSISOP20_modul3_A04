@@ -36,8 +36,18 @@ Kemudian hasilnya di taruh di array num1.
 
 <br/>![vsl4b](https://user-images.githubusercontent.com/56763570/78316327-378cee00-7514-11ea-846c-3b815320865c.jpg)<br/>
 
+3.Buatlah program C ketiga dengan nama " 4c.c ". Program ini tidak memiliki hubungan terhadap program yang lalu.
+Pada program ini, Norland diminta mengetahui jumlah file dan folder di direktori saat ini dengan command " ls | wc -l ". Karena sudah belajar IPC
+<br/>![4car](https://user-images.githubusercontent.com/56763570/78316685-24c6e900-7515-11ea-9765-ffe6da1c4016.PNG)<br/>
+array 2 ukuran p[0] untuk membaca dan p[1] untuk menulis  pipe
+<br/>![dup](https://user-images.githubusercontent.com/56763570/78316829-82f3cc00-7515-11ea-98e4-ef4223d5ae66.PNG)<br/>
+membuat stdout sama dengan p[1]. Tutup read dari pipe p[0]
+<br/>![ls](https://user-images.githubusercontent.com/56763570/78316889-a9196c00-7515-11ea-9fd6-244c40a36031.PNG)<br/>
+Kemudian eksekusi ls
+<br/>![wc](https://user-images.githubusercontent.com/56763570/78316950-d9610a80-7515-11ea-99b1-e4f068fe14e9.PNG)<br/>
+Esekusii wc
 
-
+![lswc](https://user-images.githubusercontent.com/56763570/78317036-0ad9d600-7516-11ea-8b5c-75f701bd5fd2.jpg)
 
 
 
