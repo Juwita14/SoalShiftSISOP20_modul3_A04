@@ -13,13 +13,13 @@ int main(){
 		dup(p[1]);
 		close(p[0]); 
 		
-		execl("ls","ls",NULL); 
+		execlp("ls","ls",NULL); 
 	} 
 	else
 	{ 
 		close(0); 
 		dup(p[0]); 
 		close(p[1]); 
-		execl("wc","wc","-l", NULL); 
+		execlp("wc","wc","-l", NULL); 
 	} 
 } 
