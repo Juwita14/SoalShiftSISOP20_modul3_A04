@@ -30,7 +30,7 @@ Kemudian di perulangan matriks untuk printf sekaligus mencopy hasil perkalian ma
 <br/>![num1](https://user-images.githubusercontent.com/56763570/78315714-ac5f2880-7512-11ea-842e-335c2528744d.jpg)<br/>
 Kemudian di 4b.c saya membuat array global bernama num2 untuk mencopy variabel hasil, dan num1 untuk menampung nilai akhir.
 <br/>![creaatee](https://user-images.githubusercontent.com/56763570/78315850-09f37500-7513-11ea-8b51-3093894bd4ec.jpg)<br/>
-Saat membuat thread baru dengan phtread_create, di parameter ketiga adalah fungsi factsum untuk menhitung penjumlahan tiap elemen matriks dari i sampai n. 
+Saat membuat thread baru dengan phtread_create, di parameter ketiga adalah fungsi factsum untuk menghitung penjumlahan tiap elemen matriks dari i sampai n. 
 <br/>![hasil4bbb](https://user-images.githubusercontent.com/56763570/78316220-fe547e00-7513-11ea-85ae-ac9ffa9974e0.jpg)<br/>
 Kemudian hasilnya di taruh di array num1.
 
@@ -42,12 +42,11 @@ Pada program ini, Norland diminta mengetahui jumlah file dan folder di direktori
 array 2 ukuran p[0] untuk membaca dan p[1] untuk menulis  pipe
 <br/>![dup](https://user-images.githubusercontent.com/56763570/78316829-82f3cc00-7515-11ea-98e4-ef4223d5ae66.PNG)<br/>
 membuat stdout sama dengan p[1]. Tutup read dari pipe p[0]
-<br/>![ls](https://user-images.githubusercontent.com/56763570/78316889-a9196c00-7515-11ea-9fd6-244c40a36031.PNG)<br/>
 Kemudian eksekusi ls
-<br/>![wc](https://user-images.githubusercontent.com/56763570/78316950-d9610a80-7515-11ea-99b1-e4f068fe14e9.PNG)<br/>
+<br/>![exels](https://user-images.githubusercontent.com/56763570/79031922-3d5b8280-7b57-11ea-8d33-9b3f0f94a963.PNG)<br/>
 Esekusi wc
-
-![lswc](https://user-images.githubusercontent.com/56763570/78317036-0ad9d600-7516-11ea-8b5c-75f701bd5fd2.jpg)
+<br/>![exewc](https://user-images.githubusercontent.com/56763570/79031924-3e8caf80-7b57-11ea-8f2c-fd81821b3be2.PNG)<br/>
+<br/>![4crevv](https://user-images.githubusercontent.com/56763570/79031868-e9509e00-7b56-11ea-8c3c-2415a5f0fd13.jpg)<br/>
 
 
 
